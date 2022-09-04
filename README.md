@@ -16,6 +16,8 @@ It is an Basic Android calculator which perform mathmatical operation on the bas
 [![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)](https://dms.licdn.com/playlist/C4D05AQFTdIBvOGPlxg/mp4-720p-30fp-crf28/0/1659244104274?e=1662127200&v=beta&t=P4WessrTYaNEiIOQY5e4NVxCZdPWQuAIq78586CqWuw)
 
 ## 🔗 Connect Me
-**Email:** prashant.singh.12312345@gmail.com [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-ranjan-singh-b9b6b9217/)
+**Email:** prashant.singh.12312345@gmail.com
+[![linkedin](https://img.shields.io/badge/gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=prashant.singh.12312345@gmail.com)
 
-**Linkdin:** [prashant-ranjan-singh-b9b6b9217](https://www.linkedin.com/in/prashant-ranjan-singh-b9b6b9217/) [![linkedin](https://img.shields.io/badge/gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=prashant.singh.12312345@gmail.com)
+**Linkdin:** [prashant-ranjan-singh-b9b6b9217](https://www.linkedin.com/in/prashant-ranjan-singh-b9b6b9217/) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-ranjan-singh-b9b6b9217/)

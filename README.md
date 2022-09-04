@@ -17,7 +17,9 @@ It is an Basic Android calculator which perform mathmatical operation on the bas
 
 ## 🔗 Connect Me
 **Email:** prashant.singh.12312345@gmail.com
+
 [![linkedin](https://img.shields.io/badge/gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=prashant.singh.12312345@gmail.com)
 
 **Linkdin:** [prashant-ranjan-singh-b9b6b9217](https://www.linkedin.com/in/prashant-ranjan-singh-b9b6b9217/) 
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-ranjan-singh-b9b6b9217/)

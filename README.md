@@ -1,7 +1,7 @@
 
 # 🖩 Prashant Calculator 🖩
 
-![](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Android-Calculator/main/ScreenShot/Cal.PNG)
+![](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Android-Calculator/main/ScreenShot/Interface.PNG)
 
 It is an Basic Android calculator which perform mathmatical operation on the basis of BODMAS (Bracket, Off, Divide, Multiply, Addition, Subtraction), Hope anyone which is using it will enjoy it :)
 
